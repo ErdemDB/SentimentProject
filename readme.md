@@ -18,7 +18,7 @@ This is a lexicon-based sentiment analysis tool that is specifically attuned to 
 
 * `/app` - source directory
 * `/evaluate` - steps to evaluation
-* `/External Libraries/site-packages/textblob/en/en-sentiment.xml` - sentiment lexicon
+* `/External Libraries/site-packages/textblob/en/en-sentiment.xml` - standard sentiment lexicon (Must be replaced by "en-sentiment.xml" from the directory)
 
 ## Built With
 
